@@ -8,4 +8,4 @@ Go into the directory and then type these commands:
 <br/>- npm install express ejs
 
 This will make sure you have all needed dependencies and will allow you to run the commands to run the server
--node app.js
+<br/>-node app.js
